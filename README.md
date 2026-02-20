@@ -1,1 +1,3 @@
-# Deploy-AKS-Cluster-In-Azure-With-Terraform-Custom-Modules
+# Architecture diagram for Day20
+
+![architecture](aks_arch.png)
